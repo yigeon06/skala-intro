@@ -6,3 +6,4 @@
 
 - github 저장소 생성과 로컬 저장소와 연결하기
 - git add, commit 다루기
+- git branch 다루기
